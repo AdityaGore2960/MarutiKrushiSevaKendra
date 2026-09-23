@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Maruti Krushiseva Kendra
 
 An agricultural store website for farmers to browse products and contact the store, with an admin panel to manage inventory.
@@ -81,3 +82,6 @@ After seeding, log in at `http://localhost:5173/admin/login` using the email and
 ---
 
 *Built for local farmers.*
+=======
+# MarutiKrushiSevaKendra
+>>>>>>> 5f23ae075b4996ce2507f4d7108e1e1ccdd9f1c8
